@@ -1,5 +1,4 @@
-# linear-regression-task
-Task 3
+# linear-regression
 ## Objective
 Predict house prices using linear regression and evaluate model performance.
 
